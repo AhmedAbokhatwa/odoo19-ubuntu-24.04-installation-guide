@@ -1,7 +1,5 @@
+<kbd><a href="README.ar.md">🇸🇦 اقرأ بالعربية</a></kbd>
 # 🚀 Odoo 19 Installer — Ubuntu 24.04 LTS
-<div align="right">
-  <a href="README.ar.md">اقرأ بالعربية 🇸🇦</a>
-</div>
 > Install a production-ready Odoo 19 in minutes.
 > **Python 3.11 · PostgreSQL · Nginx (optional) · SSL (optional)**
 
