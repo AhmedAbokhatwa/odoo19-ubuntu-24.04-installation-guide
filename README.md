@@ -8,6 +8,7 @@
 ## ⚡ Quick Install
 
 ```bash
+git clone https://github.com/AhmedAbokhatwa/odoo19-ubuntu-24.04-installation-guide.git
 chmod +x install-odoo19.sh
 sudo bash install-odoo19.sh
 ```
